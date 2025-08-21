@@ -1,0 +1,4 @@
+react parallax-tilt
+react icons
+typing effect
+react testify
