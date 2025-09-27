@@ -58,6 +58,7 @@ import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 
 
+const newLocal = 'Ai/ML';
 export const SkillsInfo = [
   {
     title: 'Frontend',
@@ -69,7 +70,7 @@ export const SkillsInfo = [
       { name: 'React JS', logo: reactjsLogo },
       { name: 'Python', logo: pythonLogo },
       { name: 'Redux', logo: reduxLogo },
-      { name: 'Ai/ML', logo: ai },
+      { name: newLocal, logo: ai },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       { name: 'GSAP', logo: gsapLogo },
       { name: 'Material UI', logo: materialuiLogo },
