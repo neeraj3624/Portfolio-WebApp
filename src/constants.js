@@ -45,7 +45,7 @@ import hopingminds from './assets/work_logo/hopingminds.jpg'
 import glaLogo from './assets/education_logo/gla_logo.png';
 import bsaLogo from './assets/education_logo/bsa_logo.png';
 import vpsLogo from './assets/education_logo/vps_logo.png';
-import ai from './assets/tech_logo/ai.png'
+
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
@@ -70,7 +70,7 @@ export const SkillsInfo = [
       { name: 'React JS', logo: reactjsLogo },
       { name: 'Python', logo: pythonLogo },
       { name: 'Redux', logo: reduxLogo },
-      { name: newLocal, logo: ai },
+
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       { name: 'GSAP', logo: gsapLogo },
       { name: 'Material UI', logo: materialuiLogo },
